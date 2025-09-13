@@ -76,17 +76,6 @@ This research investigates whether short-range RF emissions, mapped to Jungian a
 
 > Statistical significance evaluated with paired t-tests, p < 0.05 considered significant.
 
-### FFT and Spectrograms
-- FFT plots confirm clean spectral peaks for each waveform.
-- Example spectrogram of Hero waveform over 5-minute session:  
-![Spectrogram Hero](images/spectrogram_hero.png)  
-
-- Comparative spectrograms of Shadow and Dreamwalker waveforms:  
-![Spectrogram Comparison](images/spectrogram_comparison.png)  
-
-### Heatmaps
-- Thermal activation maps show localized cortical changes corresponding to applied frequencies:  
-![Thermal Heatmap](images/thermal_heatmap.png)  
 
 ### Observed Cognitive Responses
 | Archetype         | Observed Response                      | Notes |
@@ -173,15 +162,10 @@ frequencies:
 ```
 
 ### Appendix B: Hardware Setup
-- SDR schematic diagram (placeholder image)  
-![SDR Kit](images/sdr_hardware.png)  
+- SDR schematic diagram 
 - Components: microcontroller, DAC, RF front-end, calibration logs
 
-### Appendix C: Example Thermal Imaging & EEG
-- Thermal heatmaps: ![Thermal Heatmap](images/thermal_heatmap.png)  
-- EEG session snapshot: ![EEG Snapshot](images/eeg_example.png)  
-
-### Appendix D: Operational Logs [CLASSIFIED]
+### Appendix : Operational Logs [CLASSIFIED]
 - Timestamped capture logs with waveform identifiers  
 - Correlation of cognitive response to transmitted frequency  
 - Metadata references for internal research files  
